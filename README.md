@@ -1,5 +1,3 @@
-<!-- Profile README: goes in a public repo named exactly RafayAijaz/RafayAijaz -->
-
 <h1 align="center">Hi, I'm Rafay 👋</h1>
 <h3 align="center">Flutter Developer · Cybersecurity Engineer · Building secure mobile apps</h3>
 
@@ -58,15 +56,12 @@
 
 ### ⭐ Featured projects
 
-<!-- FLUTTER_ROWS: add a row per Flutter app here once uploaded -->
-
 | Project | What it is | Stack |
 |---|---|---|
+| 📱 **[CyberQuiz](https://github.com/RafayAijaz/Quiz-App)** · [▶️ Live demo](https://rafayaijaz.github.io/Quiz-App/) | Flutter quiz app on cybersecurity fundamentals with progress tracking, scoring and per-question explanations. Tested with CI and auto-deployed to the web | Flutter · Dart · GitHub Actions |
 | 🛡️ **CyberSentinel** *(in progress)* | Context-aware SOC/SOAR platform with risk scoring and a Flutter mobile response app | FastAPI · React · Flutter · Docker |
 | 🔓 **[Golden-Lottery-Ticket](https://github.com/RafayAijaz/Golden-Lottery-Ticket)** | Dockerised vulnerable web app for practising OWASP Top 10 exploitation | PHP · Docker |
-| 🧪 **[vulnerable-webapp-lab](https://github.com/RafayAijaz/vulnerable-webapp-lab)** | OWASP Top 10 vulnerable web app for security testing | HTML · Web |
-
-> 📱 Flutter projects are being added. Check back soon.
+| 🧪 **[vulnerable-webapp-lab](https://github.com/RafayAijaz/vulnerable-webapp-lab)** | Intentionally vulnerable Flask web app covering the OWASP Top 10 | Python · Flask · Docker |
 
 ---
 
