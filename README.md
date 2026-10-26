@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-- 📱 **Flutter Developer at Fedi Tech**, shipping features on a production social app
+- 📱 **Flutter Developer at Fedi Tech** (since May 2026), building the Willingrow E-commerce and Willingrow Express client apps
 - 🔐 **BS Cybersecurity** student at SSUET, Karachi (graduating 2027)
 - 🛡️ Building **CyberSentinel**, a context-aware SOC & SOAR platform with a mobile-first response app (final year project)
 - 🎯 I build mobile apps with security designed in from day one: secure auth, safe storage, OWASP MASVS awareness
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BLoC-1389FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Provider-7B61FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-444?style=flat-square"/>
@@ -47,7 +49,6 @@
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=flat-square"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat-square"/>
 </p>
