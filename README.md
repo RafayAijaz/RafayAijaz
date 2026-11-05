@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafay 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Rafay Aijaz 👋</h1>
 <h3 align="center">Flutter Developer · Cybersecurity Engineer · Building secure mobile apps</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🔐 **BS Cybersecurity** student at SSUET, Karachi (graduating 2027)
 - 🛡️ Building **CyberSentinel**, a context-aware SOC & SOAR platform with a mobile-first response app (final year project)
 - 🎯 I build mobile apps with security designed in from day one: secure auth, safe storage, OWASP MASVS awareness
-- 🌍 IEEE Region 10 WIE Day Ambassador 2026 · General Secretary, IEEE SSUET WIE
+- 🌍 General Secretary, IEEE SSUET WIE · Volunteer, IEEE Karachi Section · IEEE Region 10 WIE Day Ambassador 2026
 - 💼 Open to **Flutter / mobile** and **AppSec / DevSecOps** roles and freelance work
 
 ---
@@ -60,6 +60,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | 📱 **[CyberQuiz](https://github.com/RafayAijaz/Quiz-App)** · [▶️ Live demo](https://rafayaijaz.github.io/Quiz-App/) | Flutter quiz app on cybersecurity fundamentals with progress tracking, scoring and per-question explanations. Tested with CI and auto-deployed to the web | Flutter · Dart · GitHub Actions |
+| 🌤️ **[Weather App](https://github.com/RafayAijaz/Weather-App)** · [▶️ Live demo](https://rafayaijaz.github.io/Weather-App/) | Flutter weather app with live conditions and a 15-hour forecast for any city via the OpenWeatherMap API, plus light/dark mode | Flutter · Dart · REST API |
 | 🛡️ **CyberSentinel** *(in progress)* | Context-aware SOC/SOAR platform with risk scoring and a Flutter mobile response app | FastAPI · React · Flutter · Docker |
 | 🔓 **[Golden-Lottery-Ticket](https://github.com/RafayAijaz/Golden-Lottery-Ticket)** | Dockerised vulnerable web app for practising OWASP Top 10 exploitation | PHP · Docker |
 | 🧪 **[vulnerable-webapp-lab](https://github.com/RafayAijaz/vulnerable-webapp-lab)** | Intentionally vulnerable Flask web app covering the OWASP Top 10 | Python · Flask · Docker |
